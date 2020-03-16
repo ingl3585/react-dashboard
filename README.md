@@ -1,15 +1,16 @@
 # W04D01-HW
 
-### 1. Self Evaluation.
+### 1. Self Evaluation - EST TIME: 30min
 
 1. Evaluate your own project using [this rubric](./evaluation.md).
 
 ### 2. Read/Watch The Following - EST TIME: < 1hr
 
 1. Read: [ES6 Object Destructuring](https://codeburst.io/es6-destructuring-the-complete-guide-7f842d08b98f) - 12min
-2. Read/Do: [Complete React Tutorial For Beginners](https://daveceddia.com/react-tutorial/) only up to, but not including, the section **"Using State In React Components"**.  - 30min
- 
+
  **Bonus**
+ 
+ 2. Read/Do: [Complete React Tutorial For Beginners](https://daveceddia.com/react-tutorial/) only up to, but not including, the section **"Using State In React Components"**.  - 30min
 
 
 ### 3. ALGO PRACTICE - EST TIME: 20min
