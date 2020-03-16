@@ -1,7 +1,8 @@
 # W04D01-HW
 
-### 1. TBD...
+### 1. Self Evaluation.
 
+1. Evaluate your own project using [this rubric](./evaluation.md)
 
 ### 2. Read/Watch The Following - EST TIME: 
  
