@@ -7,7 +7,7 @@
 - Instead DM your evaluation via Slack to your squad lead. 
 - Your Squad lead will be meeting you 1-1 to evaluate your project during this week's lab time. 
 
-2. [React Dashboard](https://git.generalassemb.ly/SEIR-224/static-dashboard)
+2. [React Dashboard](https://git.generalassemb.ly/SEIR-526/static-dashboard)
 
 ### 2. Read/Watch The Following - EST TIME: < 1hr
 
