@@ -1,6 +1,6 @@
 # W04D01-HW
 
-### 1. Dashboard - EST TIME: 30min
+### 1. Dashboard - EST TIME: 1hr
 
 - [React Dashboard](https://git.generalassemb.ly/SEIR-526/static-dashboard)
  - When completed submit your homework [here](https://docs.google.com/forms/u/3/d/e/1FAIpQLSezWVG8OLr6ZxmRNOwZ6xsoYO5lu_7L1LTWA3X6iclG4iG_Hw/viewform?usp=send_form). 
