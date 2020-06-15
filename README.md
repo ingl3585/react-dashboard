@@ -3,7 +3,7 @@
 ### 1. Dashboard - EST TIME: 30min
 
 - [React Dashboard](https://git.generalassemb.ly/SEIR-526/static-dashboard)
- - When commpleted submit your homework [here](https://docs.google.com/forms/u/3/d/e/1FAIpQLSezWVG8OLr6ZxmRNOwZ6xsoYO5lu_7L1LTWA3X6iclG4iG_Hw/viewform?usp=send_form). 
+ - When completed submit your homework [here](https://docs.google.com/forms/u/3/d/e/1FAIpQLSezWVG8OLr6ZxmRNOwZ6xsoYO5lu_7L1LTWA3X6iclG4iG_Hw/viewform?usp=send_form). 
 
 ### 2. Read/Watch The Following - EST TIME: < 1hr
 
