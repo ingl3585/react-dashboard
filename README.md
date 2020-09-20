@@ -22,7 +22,7 @@ None assigned at this time
 
 ### 4.  INTERVIEW PRACTICE - EST TIME: 20min
 
-1.  Create a new Googgle Doc called ***Tech Interview Questions** and turn sharing on.
+1.  Create a new Googgle Doc called **Tech Interview Questions** and turn sharing on.
 2. Add and answer the following question: 
    - **What is callback? Give an example..**.
 3. All answers must be at least a paragraph in length however the more you write the more you have to talk about.
