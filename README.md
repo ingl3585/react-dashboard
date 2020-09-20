@@ -8,6 +8,7 @@
 ### 2. Read/Watch The Following - EST TIME: < 1hr
 
  - Read: [ES6 Object Destructuring](https://codeburst.io/es6-destructuring-the-complete-guide-7f842d08b98f) - 12min
+ - Read: [React Folder Structure](https://www.robinwieruch.de/react-folder-structure?utm_campaign=Robin%20Wieruch%20-%20A%20Developer%27s%20Newsletter&utm_medium=email&utm_source=Revue%20newsletter)
 
  **Bonus**
  
