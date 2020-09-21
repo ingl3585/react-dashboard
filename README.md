@@ -18,7 +18,8 @@
 
 ### 3. ALGO PRACTICE - EST TIME: 20min
 
-Head to [My General Assembly](https://my.generalassemb.ly/), under the `Algorithm` modules finish the `Big O` Lesson. 
+Head to [My General Assembly](https://my.generalassemb.ly/), under the `Algorithm` modules finish the `Big O` Lesson.
+
 > submit a screen shot with your initials and the complete module like [this](./image.png)
 
 
