@@ -14,17 +14,3 @@
  **Bonus**
  
  - Read/Do: [Complete React Tutorial For Beginners](https://daveceddia.com/react-tutorial/) only up to, but not including, the section **"Using State In React Components"**.  - 30min
-
-
-### 3. ALGO PRACTICE - EST TIME: 20min
-
-Head to [My General Assembly](https://my.generalassemb.ly/), under the `Algorithm` modules finish the `Big O` Lesson.
-
-### 4.  INTERVIEW PRACTICE - EST TIME: 20min
-
-1.  Create a new Googgle Doc called **Tech Interview Questions** and turn sharing on.
-2. Add and answer the following question: 
-   - **What is callback? Give an example..**.
-3. All answers must be at least a paragraph in length however the more you write the more you have to talk about.
-4. If you haven't already done so, add a link to the **Tech column** in following [spreadheet](https://docs.google.com/spreadsheets/d/1zY0vC3so5QxcVwtKipoEuqCl9dtsbz6cW_5-gXBWjE8/edit#gid=0) to your shared google doc.
-
