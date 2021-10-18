@@ -2,7 +2,7 @@
 
 ### 1. Dashboard - EST TIME: 1hr
 
-- [React Dashboard](https://git.generalassemb.ly/SEIR-831/static-dashboard)
+- [React Dashboard](https://git.generalassemb.ly/sei927/static-dashboard)
 -  Follow the instructions in that repo
 
 ### 2. Read/Watch The Following - EST TIME: < 1hr
