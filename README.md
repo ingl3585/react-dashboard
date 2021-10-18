@@ -4,7 +4,6 @@
 
 - [React Dashboard](https://git.generalassemb.ly/SEIR-831/static-dashboard)
 -  Follow the instructions in that repo
--  When completed submit your homework [here](https://docs.google.com/forms/d/e/1FAIpQLSeroos9mbUxkYhzETYq4dylzqb_il07tKHBby2YPLkqb0Wr9Q/viewform). 
 
 ### 2. Read/Watch The Following - EST TIME: < 1hr
 
