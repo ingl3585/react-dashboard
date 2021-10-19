@@ -1,0 +1,22 @@
+.rating-container {
+    grid-column: 3/4;
+    grid-row: 1/2;
+    margin-top: 7.5%;
+    height: 100%;
+    width: 100%;
+    display: flex;
+}
+
+.rating-card {
+    background-color: #DDDDDD;
+    margin-top: 30px;
+    height: 90%;
+    width: 90%;
+    margin: auto;
+    display: flex;
+}
+
+.rating-card p {
+    margin-left: 10%;
+    line-height: 2;
+}

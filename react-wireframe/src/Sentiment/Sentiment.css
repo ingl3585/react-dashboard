@@ -1,0 +1,31 @@
+.sentiment-container {
+    grid-column: 4/5;
+    grid-row: 1/2;
+    margin-top: 7.5%;
+    height: 100%;
+    width: 100%;
+    display: flex;
+}
+
+.sentiment-card {
+    background-color: #DDDDDD;
+    margin-top: 30px;
+    height: 90%;
+    width: 90%;
+    margin: auto;
+    
+}
+
+.sentiment-title {
+    margin-left: 10%;
+    line-height: 2;
+    height: 5%;
+}
+
+.sentiment-values {
+    height: 25%;
+    margin-top: 25%;
+    line-height: 2;
+    display: flex;
+    justify-content: center;
+}

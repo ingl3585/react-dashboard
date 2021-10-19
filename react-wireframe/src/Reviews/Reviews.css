@@ -1,0 +1,22 @@
+.reviews-container {
+    grid-column: 2/3;
+    grid-row: 1/2;
+    height: 100%;
+    width: 100%;
+    margin-top: 7.5%;
+    display: flex;
+}
+
+.review-card {
+    background-color: #DDDDDD;
+    margin-top: 30px;
+    height: 90%;
+    width: 90%;
+    margin: auto;
+    display: flex;
+}
+
+.review-card p {
+    margin-left: 10%;
+    line-height: 2;
+}
